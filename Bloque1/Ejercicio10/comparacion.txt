@@ -1,0 +1,23 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 7E25-C349
+
+ Directorio de C:\Users\Juan Antonio\Desktop\GithubSegundo\PSP\Bloque1
+
+01/10/2026  10:29    <DIR>          .
+17/09/2026  11:21    <DIR>          ..
+01/10/2026  10:27    <DIR>          adf
+01/10/2026  10:29    <DIR>          asdf
+17/09/2026  11:25               233 Ejercicio0.java
+24/09/2026  09:20             1.068 Ejercicio1.java
+01/10/2026  10:03    <DIR>          Ejercicio10
+01/10/2026  10:34             1.418 Ejercicio10.java
+24/09/2026  09:28             1.118 Ejercicio2.java
+24/09/2026  09:40             1.128 Ejercicio3.java
+24/09/2026  10:21             3.047 Ejercicio4.java
+24/09/2026  10:36               804 Ejercicio5.java
+24/09/2026  11:02               737 Ejercicio6.java
+24/09/2026  11:18             3.407 Ejercicio7.java
+01/10/2026  09:16    <DIR>          ejercicio8
+01/10/2026  09:31             1.106 Ejercicio9.java
+              10 archivos         14.066 bytes
+               6 dirs  444.974.362.624 bytes libres
