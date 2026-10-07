@@ -1,0 +1,3 @@
+Nombre de host:                            PORTATIL
+Nombre del sistema operativo:              Microsoft Windows 11 Pro
+Modelo del sistema:                        Thin GF63 12VE
