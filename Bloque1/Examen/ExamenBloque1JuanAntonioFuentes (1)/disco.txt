@@ -1,0 +1,2 @@
+=== Diagnostico de disco ===               
+2 dirs  452.707.586.048 bytes libres
